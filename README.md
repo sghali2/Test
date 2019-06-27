@@ -18,7 +18,7 @@ This is my first **repository**!
 
 1. Yet another list item.
 
-,,,
+```
 
  |\       /|
  | \_____/ |
@@ -27,4 +27,5 @@ This is my first **repository**!
 |  O  __  O  |
 |     \/     |
 \___\_/\_/___/
-'''
+
+```
